@@ -7,6 +7,6 @@ building AI-powered products for real businesses.
 🌱 **Learning in public:** LLM apps — RAG, agents, evals
 🧰 **Stack:** TypeScript · Next.js · Node · Python · LLM APIs
 💼 **Founder** of VADE (Webflow design & dev for US startups)
-🐦 **I share what I learn:** [@yourhandle](https://x.com/yourhandle)
+🐦 **I share what I learn:** [@PhilDave06](https://x.com/PhilDave06)
 
 _Every project here ships with a live demo. I build in the open._
